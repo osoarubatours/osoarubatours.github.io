@@ -1037,7 +1037,7 @@ a {
 .cid-uQOMKlDce2 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/d3dbc8aa-aaf3-47fd-ba6d-13921737b0dd.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-contact.webp");
 }
 .cid-uQOMKlDce2 .mbr-fallback-image.disabled {
   display: none;
@@ -1211,9 +1211,38 @@ a {
 .cid-sFGGDvi61Z .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-uRERBdRmV9 .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 100px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-uRERBdRmV9 .my-float {
+  margin-top: 16px;
+}
+.cid-uRERBdRmV9 P {
+  color: #232323;
+}
+.cid-uRERBdRmV9 DIV {
+  color: #ffffff;
+}
+.cid-uRERBdRmV9 H10 {
+  color: #767676;
+}
+.cid-uRERBdRmV9 .hidden {
+  display: none;
+}
 .cid-uRyeQDfQER {
   padding-top: 4rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #000000;
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
@@ -2107,7 +2136,7 @@ a {
 .cid-uQQvRFUppA {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/contact-oso-jeep-aruba-tours.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-header-bg.webp");
 }
 .cid-uQQvRFUppA .mbr-fallback-image.disabled {
   display: none;
@@ -2703,6 +2732,9 @@ a {
 .cid-uLZ2lkBHJi img,
 .cid-uLZ2lkBHJi .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-uLZ2lkBHJi .item:focus,
 .cid-uLZ2lkBHJi span:focus {
@@ -3212,7 +3244,7 @@ a {
 .cid-uRdDSO57VF {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/jeep-tours-by-oso-aruba.webp");
+  background-image: url("../../../assets/images/rent-a-oso-jeep-wrangler-in-aruba.webp");
 }
 .cid-uRdDSO57VF .mbr-fallback-image.disabled {
   display: none;
@@ -3247,6 +3279,63 @@ a {
   color: #22a5e5;
 }
 .cid-uReioL0akP .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uRR2cD5qlc {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
+}
+.cid-uRR2cD5qlc .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uRR2cD5qlc .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uRR2cD5qlc .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uRR2cD5qlc .bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uRR2cD5qlc .bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uRR2cD5qlc .bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uRR2cD5qlc .bg-youtube {
+  background: #ff0000;
+  color: #ffffff;
+}
+.cid-uRR2cD5qlc .bg-youtube:hover {
+  background: #cc0000;
+}
+.cid-uRR2cD5qlc .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uRR2cD5qlc [class^="socicon-"]:before,
+.cid-uRR2cD5qlc [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
+.cid-uRR2cD5qlc .mbr-section-title,
+.cid-uRR2cD5qlc .social-list {
   color: #ffffff;
 }
 .cid-uRfz3QyDQW {
@@ -4722,7 +4811,7 @@ a {
 .cid-uRdBB4QlcJ {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/jeep-tours-by-oso-aruba.webp");
+  background-image: url("../../../assets/images/oso-jeep-tour-island-aruba.webp");
 }
 .cid-uRdBB4QlcJ .mbr-fallback-image.disabled {
   display: none;
@@ -7185,7 +7274,7 @@ a {
 .cid-uRbXBRhPZ3 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/oso-aruba-jeep-tours.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-gallery-12.webp");
 }
 .cid-uRbXBRhPZ3 .mbr-fallback-image.disabled {
   display: none;
@@ -7825,7 +7914,7 @@ a {
 .cid-uRlIXXdkab {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/oso-aruba-jeep-tours.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-gallery-13.webp");
 }
 .cid-uRlIXXdkab .mbr-fallback-image.disabled {
   display: none;
@@ -8465,7 +8554,7 @@ a {
 .cid-uRydHrWOsM {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/jeep-tours-by-oso-aruba.webp");
+  background-image: url("../../../assets/images/oso-jeep-tour-island-aruba.webp");
 }
 .cid-uRydHrWOsM .mbr-fallback-image.disabled {
   display: none;
@@ -8859,5 +8948,539 @@ a {
   }
 }
 .cid-uRyeQDfQER .mbr-section-subtitle {
+  color: #22a5e5;
+}
+.cid-uREOWe1Mts .navbar-dropdown {
+  position: relative !important;
+}
+.cid-uREOWe1Mts .navbar-dropdown {
+  position: absolute !important;
+}
+.cid-uREOWe1Mts .dropdown-item:before {
+  font-family: Moririse2 !important;
+  content: "\e966";
+  display: inline-block;
+  width: 0;
+  position: absolute;
+  left: 1rem;
+  top: 0.5rem;
+  margin-right: 0.5rem;
+  line-height: 1;
+  font-size: inherit;
+  vertical-align: middle;
+  text-align: center;
+  overflow: hidden;
+  transform: scale(0, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-uREOWe1Mts .dropdown-menu {
+  padding: 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+.cid-uREOWe1Mts .dropdown-item {
+  border-bottom: 1px solid #e6e6e6;
+}
+.cid-uREOWe1Mts .dropdown-item:hover,
+.cid-uREOWe1Mts .dropdown-item:focus {
+  background: #000000 !important;
+  color: white !important;
+}
+.cid-uREOWe1Mts .dropdown-item:first-child {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.cid-uREOWe1Mts .dropdown-item:last-child {
+  border-bottom: none;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.cid-uREOWe1Mts .nav-dropdown .link {
+  padding: 0 0.3em !important;
+  margin: 0.667em 1em !important;
+}
+.cid-uREOWe1Mts .nav-dropdown .link.dropdown-toggle::after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+}
+.cid-uREOWe1Mts .nav-link {
+  position: relative;
+}
+.cid-uREOWe1Mts .container {
+  display: flex;
+  margin: auto;
+}
+.cid-uREOWe1Mts .iconfont-wrapper {
+  color: #ffffff !important;
+  font-size: 1.5rem;
+  padding-right: 0.5rem;
+}
+.cid-uREOWe1Mts .dropdown-menu,
+.cid-uREOWe1Mts .navbar.opened {
+  background: #232323 !important;
+}
+.cid-uREOWe1Mts .nav-item:focus,
+.cid-uREOWe1Mts .nav-link:focus {
+  outline: none;
+}
+.cid-uREOWe1Mts .dropdown .dropdown-menu .dropdown-item {
+  width: auto;
+  transition: all 0.25s ease-in-out;
+}
+.cid-uREOWe1Mts .dropdown .dropdown-menu .dropdown-item::after {
+  right: 0.5rem;
+}
+.cid-uREOWe1Mts .dropdown .dropdown-menu .dropdown-item .mbr-iconfont {
+  margin-right: 0.5rem;
+  vertical-align: sub;
+}
+.cid-uREOWe1Mts .dropdown .dropdown-menu .dropdown-item .mbr-iconfont:before {
+  display: inline-block;
+  transform: scale(1, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-uREOWe1Mts .collapsed .dropdown-menu .dropdown-item:before {
+  display: none;
+}
+.cid-uREOWe1Mts .collapsed .dropdown .dropdown-menu .dropdown-item {
+  padding: 0.235em 1.5em 0.235em 1.5em !important;
+  transition: none;
+  margin: 0 !important;
+}
+.cid-uREOWe1Mts .navbar {
+  min-height: 70px;
+  transition: all 0.3s;
+  border-bottom: 1px solid transparent;
+  background: rgba(35, 35, 35, 0.2);
+}
+.cid-uREOWe1Mts .navbar.opened {
+  transition: all 0.3s;
+}
+.cid-uREOWe1Mts .navbar .dropdown-item {
+  padding: 0.5rem 1.8rem;
+}
+.cid-uREOWe1Mts .navbar .navbar-logo img {
+  width: auto;
+}
+.cid-uREOWe1Mts .navbar .navbar-collapse {
+  justify-content: flex-end;
+  z-index: 1;
+}
+.cid-uREOWe1Mts .navbar.collapsed {
+  justify-content: center;
+}
+.cid-uREOWe1Mts .navbar.collapsed .nav-item .nav-link::before {
+  display: none;
+}
+.cid-uREOWe1Mts .navbar.collapsed.opened .dropdown-menu {
+  top: 0;
+}
+@media (min-width: 992px) {
+  .cid-uREOWe1Mts .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 4rem);
+  }
+}
+.cid-uREOWe1Mts .navbar.collapsed .dropdown-menu .dropdown-submenu {
+  left: 0 !important;
+}
+.cid-uREOWe1Mts .navbar.collapsed .dropdown-menu .dropdown-item:after {
+  right: auto;
+}
+.cid-uREOWe1Mts .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+  border-top: 0.35em solid;
+  border-right: 0.35em solid transparent;
+  border-left: 0.35em solid transparent;
+  border-bottom: 0;
+  top: 41%;
+}
+.cid-uREOWe1Mts .navbar.collapsed ul.navbar-nav li {
+  margin: auto;
+}
+.cid-uREOWe1Mts .navbar.collapsed .dropdown-menu .dropdown-item {
+  padding: 0.25rem 1.5rem;
+  text-align: center;
+}
+.cid-uREOWe1Mts .navbar.collapsed .icons-menu {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+@media (max-width: 991px) {
+  .cid-uREOWe1Mts .navbar .nav-item .nav-link::before {
+    display: none;
+  }
+  .cid-uREOWe1Mts .navbar.opened .dropdown-menu {
+    top: 0;
+  }
+  .cid-uREOWe1Mts .navbar .dropdown-menu .dropdown-submenu {
+    left: 0 !important;
+  }
+  .cid-uREOWe1Mts .navbar .dropdown-menu .dropdown-item:after {
+    right: auto;
+  }
+  .cid-uREOWe1Mts .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+    border-top: 0.35em solid;
+    border-right: 0.35em solid transparent;
+    border-left: 0.35em solid transparent;
+    border-bottom: 0;
+    top: 40%;
+  }
+  .cid-uREOWe1Mts .navbar .navbar-logo img {
+    height: 3rem !important;
+  }
+  .cid-uREOWe1Mts .navbar ul.navbar-nav li {
+    margin: auto;
+  }
+  .cid-uREOWe1Mts .navbar .dropdown-menu .dropdown-item {
+    padding: 0.25rem 1.5rem !important;
+    text-align: center;
+  }
+  .cid-uREOWe1Mts .navbar .navbar-brand {
+    flex-shrink: initial;
+    flex-basis: auto;
+    word-break: break-word;
+    padding-right: 2rem;
+  }
+  .cid-uREOWe1Mts .navbar .navbar-toggler {
+    flex-basis: auto;
+  }
+  .cid-uREOWe1Mts .navbar .icons-menu {
+    padding-left: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+.cid-uREOWe1Mts .navbar.navbar-short {
+  min-height: 60px;
+}
+.cid-uREOWe1Mts .navbar.navbar-short .navbar-logo img {
+  height: 2.5rem !important;
+}
+.cid-uREOWe1Mts .navbar.navbar-short .navbar-brand {
+  min-height: 60px;
+  padding: 0;
+}
+.cid-uREOWe1Mts .navbar-brand {
+  min-height: 70px;
+  flex-shrink: 0;
+  align-items: center;
+  margin-right: 0;
+  padding: 10px 0;
+  transition: all 0.3s;
+  word-break: break-word;
+  z-index: 1;
+}
+.cid-uREOWe1Mts .navbar-brand .navbar-caption {
+  line-height: inherit !important;
+}
+.cid-uREOWe1Mts .navbar-brand .navbar-logo a {
+  outline: none;
+}
+.cid-uREOWe1Mts .dropdown-item.active,
+.cid-uREOWe1Mts .dropdown-item:active {
+  background-color: transparent;
+}
+.cid-uREOWe1Mts .navbar-expand-lg .navbar-nav .nav-link {
+  padding: 0;
+}
+.cid-uREOWe1Mts .nav-dropdown .link.dropdown-toggle {
+  margin-right: 1.667em;
+}
+.cid-uREOWe1Mts .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
+  margin-right: 0;
+  padding: 0.667em 1.667em;
+}
+.cid-uREOWe1Mts .navbar.navbar-expand-lg .dropdown .dropdown-menu {
+  background: #232323;
+}
+.cid-uREOWe1Mts .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
+  margin: 0;
+  left: 100%;
+}
+.cid-uREOWe1Mts .navbar .dropdown.open > .dropdown-menu {
+  display: block;
+}
+.cid-uREOWe1Mts ul.navbar-nav {
+  flex-wrap: wrap;
+}
+.cid-uREOWe1Mts .navbar-buttons {
+  text-align: center;
+  min-width: 170px;
+}
+.cid-uREOWe1Mts button.navbar-toggler {
+  outline: none;
+  width: 31px;
+  height: 20px;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+  align-self: center;
+}
+.cid-uREOWe1Mts button.navbar-toggler .hamburger span {
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 2px;
+  border-right: 5px;
+  background-color: #ffffff;
+}
+.cid-uREOWe1Mts button.navbar-toggler .hamburger span:nth-child(1) {
+  top: 0;
+  transition: all 0.2s;
+}
+.cid-uREOWe1Mts button.navbar-toggler .hamburger span:nth-child(2) {
+  top: 8px;
+  transition: all 0.15s;
+}
+.cid-uREOWe1Mts button.navbar-toggler .hamburger span:nth-child(3) {
+  top: 8px;
+  transition: all 0.15s;
+}
+.cid-uREOWe1Mts button.navbar-toggler .hamburger span:nth-child(4) {
+  top: 16px;
+  transition: all 0.2s;
+}
+.cid-uREOWe1Mts nav.opened .hamburger span:nth-child(1) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all 0.2s;
+}
+.cid-uREOWe1Mts nav.opened .hamburger span:nth-child(2) {
+  transform: rotate(45deg);
+  transition: all 0.25s;
+}
+.cid-uREOWe1Mts nav.opened .hamburger span:nth-child(3) {
+  transform: rotate(-45deg);
+  transition: all 0.25s;
+}
+.cid-uREOWe1Mts nav.opened .hamburger span:nth-child(4) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all 0.2s;
+}
+.cid-uREOWe1Mts .navbar-dropdown {
+  padding: 0 1rem;
+}
+.cid-uREOWe1Mts a.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cid-uREOWe1Mts .icons-menu {
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.3rem;
+  text-align: center;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-uREOWe1Mts .navbar {
+    height: 70px;
+  }
+  .cid-uREOWe1Mts .navbar.opened {
+    height: auto;
+  }
+  .cid-uREOWe1Mts .nav-item .nav-link:hover::before {
+    width: 175%;
+    max-width: calc(100% + 2rem);
+    left: -1rem;
+  }
+}
+.cid-uREOWeHxWm {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/aruba-jeep-rental-service-oso.webp");
+}
+.cid-uREOWeHxWm .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uREOWeHxWm .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uREOWfmRBB {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #232323;
+}
+.cid-uREOWfmRBB img,
+.cid-uREOWfmRBB .item-img {
+  width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-uREOWfmRBB .item:focus,
+.cid-uREOWfmRBB span:focus {
+  outline: none;
+}
+.cid-uREOWfmRBB .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-uREOWfmRBB .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uREOWfmRBB .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-uREOWfmRBB .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uREOWfmRBB .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-uREOWfmRBB .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-uREOWfmRBB .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uREOWfmRBB .mbr-section-title {
+  color: #22a5e5;
+}
+.cid-uREOWfmRBB .mbr-text,
+.cid-uREOWfmRBB .mbr-section-btn {
+  text-align: center;
+  color: #232323;
+}
+.cid-uREOWfmRBB .item-title {
+  text-align: center;
+  color: #22a5e5;
+}
+.cid-uREOWfmRBB .item-subtitle {
+  text-align: center;
+  color: #000000;
+}
+.cid-uREOWfmRBB .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uREOWg1ghK {
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+  background-color: #232323;
+}
+.cid-uREOWg1ghK .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uREOWg1ghK .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uREOWg1ghK .mbr-section-title {
+  color: #22a5e5;
+}
+.cid-uREOWg1ghK .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uREOWgriKn {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #000000;
+}
+.cid-uREOWgriKn .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uREOWgriKn .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uREOWgriKn .media-wrap {
+  padding: 0;
+}
+@media (max-width: 991px) {
+  .cid-uREOWgriKn .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uREOWgriKn .row {
+    text-align: center;
+  }
+  .cid-uREOWgriKn .row > div {
+    margin: auto;
+  }
+  .cid-uREOWgriKn .social-row {
+    justify-content: center;
+  }
+}
+.cid-uREOWgriKn .social-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-uREOWgriKn .list {
+  list-style: none;
+  padding-left: 0;
+  color: #bbbbbb;
+}
+@media (max-width: 991px) {
+  .cid-uREOWgriKn .list {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uREOWgriKn .list {
+    margin-bottom: 0rem;
+  }
+}
+.cid-uREOWgriKn .mbr-text {
+  color: #ffffff;
+}
+.cid-uREOWgriKn .soc-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: white;
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+.cid-uREOWgriKn .mbr-iconfont {
+  color: black;
+}
+@media (max-width: 991px) {
+  .cid-uREOWgriKn div > *:last-child {
+    margin-top: 0 !important;
+  }
+}
+.cid-uREOWgriKn .mbr-section-subtitle {
   color: #22a5e5;
 }
