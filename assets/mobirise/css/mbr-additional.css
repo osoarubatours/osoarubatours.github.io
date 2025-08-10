@@ -1037,7 +1037,7 @@ a {
 .cid-uQOMKlDce2 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/oso-aruba-jeep-tours-contact.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-header.webp");
 }
 .cid-uQOMKlDce2 .mbr-fallback-image.disabled {
   display: none;
@@ -2103,7 +2103,7 @@ a {
 .cid-uQQvRFUppA {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/oso-aruba-jeep-tours-header-bg.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-header.webp");
 }
 .cid-uQQvRFUppA .mbr-fallback-image.disabled {
   display: none;
@@ -2736,27 +2736,24 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uLZ2lkBHJi {
+.cid-uTm0doQtws {
   padding-top: 3rem;
   padding-bottom: 1rem;
   background-color: #232323;
 }
-.cid-uLZ2lkBHJi img,
-.cid-uLZ2lkBHJi .item-img {
+.cid-uTm0doQtws img,
+.cid-uTm0doQtws .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
-.cid-uLZ2lkBHJi .item:focus,
-.cid-uLZ2lkBHJi span:focus {
+.cid-uTm0doQtws .item:focus,
+.cid-uTm0doQtws span:focus {
   outline: none;
 }
-.cid-uLZ2lkBHJi .item {
+.cid-uTm0doQtws .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-uLZ2lkBHJi .item-wrapper {
+.cid-uTm0doQtws .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #ffffff;
@@ -2765,41 +2762,41 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-uLZ2lkBHJi .item-wrapper .item-content {
+  .cid-uTm0doQtws .item-wrapper .item-content {
     padding: 2rem 2rem 0;
   }
-  .cid-uLZ2lkBHJi .item-wrapper .item-footer {
+  .cid-uTm0doQtws .item-wrapper .item-footer {
     padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-uLZ2lkBHJi .item-wrapper .item-content {
+  .cid-uTm0doQtws .item-wrapper .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-uLZ2lkBHJi .item-wrapper .item-footer {
+  .cid-uTm0doQtws .item-wrapper .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-uLZ2lkBHJi .mbr-section-btn {
+.cid-uTm0doQtws .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-uLZ2lkBHJi .mbr-section-title {
+.cid-uTm0doQtws .mbr-section-title {
   color: #22a5e5;
 }
-.cid-uLZ2lkBHJi .mbr-text,
-.cid-uLZ2lkBHJi .mbr-section-btn {
+.cid-uTm0doQtws .mbr-text,
+.cid-uTm0doQtws .mbr-section-btn {
   text-align: center;
   color: #232323;
 }
-.cid-uLZ2lkBHJi .item-title {
+.cid-uTm0doQtws .item-title {
   text-align: center;
   color: #22a5e5;
 }
-.cid-uLZ2lkBHJi .item-subtitle {
+.cid-uTm0doQtws .item-subtitle {
   text-align: center;
   color: #000000;
 }
-.cid-uLZ2lkBHJi .mbr-section-subtitle {
+.cid-uTm0doQtws .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-uSJ5d9qdLA {
@@ -4348,12 +4345,12 @@ a {
     left: -1rem;
   }
 }
-.cid-uQLbwHuqiF {
+.cid-uThZnd5y3n {
   padding-top: 120px;
   padding-bottom: 120px;
   background-image: url("../../../assets/images/oso-aruba-jeep-tours-faqs.webp");
 }
-.cid-uQLbwHuqiF .icons-media-container {
+.cid-uThZnd5y3n .icons-media-container {
   display: flex;
   -webkit-justify-content: center;
   justify-content: center;
@@ -4363,20 +4360,20 @@ a {
   flex-wrap: wrap;
   padding-top: 4rem;
 }
-.cid-uQLbwHuqiF .icons-media-container .mbr-iconfont {
+.cid-uThZnd5y3n .icons-media-container .mbr-iconfont {
   font-size: 96px;
   color: #ffffff;
 }
-.cid-uQLbwHuqiF .icons-media-container .icon-block {
+.cid-uThZnd5y3n .icons-media-container .icon-block {
   padding-bottom: 1rem;
 }
-.cid-uQLbwHuqiF .mbr-text {
+.cid-uThZnd5y3n .mbr-text {
   color: #ffffff;
 }
-.cid-uQLbwHuqiF .card {
+.cid-uThZnd5y3n .card {
   padding-bottom: 1.5rem;
 }
-.cid-uQLbwHuqiF .card-wrapper {
+.cid-uThZnd5y3n .card-wrapper {
   min-height: 220px;
   transition: all 0.3s;
   border-radius: 4px;
@@ -4385,24 +4382,24 @@ a {
   justify-content: center;
   align-items: center;
 }
-.cid-uQLbwHuqiF .card-wrapper .mbr-iconfont {
+.cid-uThZnd5y3n .card-wrapper .mbr-iconfont {
   display: block;
   font-size: 4rem;
   color: #ffffff;
   margin-bottom: 2rem;
 }
-.cid-uQLbwHuqiF .card-wrapper .card-title {
+.cid-uThZnd5y3n .card-wrapper .card-title {
   color: #ffffff;
 }
-.cid-uQLbwHuqiF H1 {
+.cid-uThZnd5y3n H1 {
   color: #ffffff;
 }
-.cid-uQLbwHuqiF .mbr-text,
-.cid-uQLbwHuqiF .mbr-section-btn {
+.cid-uThZnd5y3n .mbr-text,
+.cid-uThZnd5y3n .mbr-section-btn {
   color: #ffffff;
 }
-.cid-uQLbwHuqiF .card-wrapper .card-title,
-.cid-uQLbwHuqiF .card-box {
+.cid-uThZnd5y3n .card-wrapper .card-title,
+.cid-uThZnd5y3n .card-box {
   color: #ffffff;
 }
 .cid-uQLbwI40yv {
@@ -4856,7 +4853,7 @@ a {
 .cid-uRdBB4QlcJ {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/oso-jeep-tour-island-aruba.webp");
+  background-image: url("../../../assets/images/jeep-tours-by-oso-aruba-1.webp");
 }
 .cid-uRdBB4QlcJ .mbr-fallback-image.disabled {
   display: none;
@@ -4892,6 +4889,71 @@ a {
 }
 .cid-uRlQh5h5IR .mbr-section-title {
   color: #22a5e5;
+}
+.cid-uTnHzQTnIN {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #232323;
+}
+.cid-uTnHzQTnIN img,
+.cid-uTnHzQTnIN .item-img {
+  width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-uTnHzQTnIN .item:focus,
+.cid-uTnHzQTnIN span:focus {
+  outline: none;
+}
+.cid-uTnHzQTnIN .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-uTnHzQTnIN .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uTnHzQTnIN .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-uTnHzQTnIN .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uTnHzQTnIN .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-uTnHzQTnIN .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-uTnHzQTnIN .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uTnHzQTnIN .mbr-section-title {
+  color: #22a5e5;
+}
+.cid-uTnHzQTnIN .mbr-text,
+.cid-uTnHzQTnIN .mbr-section-btn {
+  text-align: center;
+  color: #232323;
+}
+.cid-uTnHzQTnIN .item-title {
+  text-align: center;
+  color: #22a5e5;
+}
+.cid-uTnHzQTnIN .item-subtitle {
+  text-align: left;
+}
+.cid-uTnHzQTnIN .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-uSJ4KK5Mmd {
   padding-top: 1rem;
@@ -4936,71 +4998,6 @@ a {
 }
 .cid-uSJ4KK5Mmd .mbr-section-title,
 .cid-uSJ4KK5Mmd .mbr-social-likes {
-  color: #ffffff;
-}
-.cid-uRbRRcL3aa {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #232323;
-}
-.cid-uRbRRcL3aa img,
-.cid-uRbRRcL3aa .item-img {
-  width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
-}
-.cid-uRbRRcL3aa .item:focus,
-.cid-uRbRRcL3aa span:focus {
-  outline: none;
-}
-.cid-uRbRRcL3aa .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-uRbRRcL3aa .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-uRbRRcL3aa .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-uRbRRcL3aa .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-uRbRRcL3aa .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-uRbRRcL3aa .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
-  }
-}
-.cid-uRbRRcL3aa .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-uRbRRcL3aa .mbr-section-title {
-  color: #22a5e5;
-}
-.cid-uRbRRcL3aa .mbr-text,
-.cid-uRbRRcL3aa .mbr-section-btn {
-  text-align: center;
-  color: #232323;
-}
-.cid-uRbRRcL3aa .item-title {
-  text-align: center;
-  color: #22a5e5;
-}
-.cid-uRbRRcL3aa .item-subtitle {
-  text-align: left;
-}
-.cid-uRbRRcL3aa .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-uQM9A0ap7m {
@@ -6093,7 +6090,7 @@ a {
 .cid-uQWy2on3Gr {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/85d08f03-aee0-4902-9360-48075a4fde9a.webp");
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-gallery-15.webp");
 }
 .cid-uQWy2on3Gr .mbr-fallback-image.disabled {
   display: none;
@@ -8740,7 +8737,7 @@ a {
 .cid-uRydHrWOsM {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/oso-jeep-tour-island-aruba.webp");
+  background-image: url("../../../assets/images/jeep-tours-by-oso-aruba-1.webp");
 }
 .cid-uRydHrWOsM .mbr-fallback-image.disabled {
   display: none;
@@ -8822,27 +8819,27 @@ a {
 .cid-uSJ4H6sVx5 .mbr-social-likes {
   color: #ffffff;
 }
-.cid-uRydHthDtO {
-  padding-top: 2rem;
+.cid-uTnY2tdtVE {
+  padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #232323;
 }
-.cid-uRydHthDtO img,
-.cid-uRydHthDtO .item-img {
+.cid-uTnY2tdtVE img,
+.cid-uTnY2tdtVE .item-img {
   width: 100%;
   height: 100%;
   height: 300px;
   object-fit: cover;
 }
-.cid-uRydHthDtO .item:focus,
-.cid-uRydHthDtO span:focus {
+.cid-uTnY2tdtVE .item:focus,
+.cid-uTnY2tdtVE span:focus {
   outline: none;
 }
-.cid-uRydHthDtO .item {
+.cid-uTnY2tdtVE .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-uRydHthDtO .item-wrapper {
+.cid-uTnY2tdtVE .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #ffffff;
@@ -8851,40 +8848,40 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-uRydHthDtO .item-wrapper .item-content {
+  .cid-uTnY2tdtVE .item-wrapper .item-content {
     padding: 2rem 2rem 0;
   }
-  .cid-uRydHthDtO .item-wrapper .item-footer {
+  .cid-uTnY2tdtVE .item-wrapper .item-footer {
     padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-uRydHthDtO .item-wrapper .item-content {
+  .cid-uTnY2tdtVE .item-wrapper .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-uRydHthDtO .item-wrapper .item-footer {
+  .cid-uTnY2tdtVE .item-wrapper .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-uRydHthDtO .mbr-section-btn {
+.cid-uTnY2tdtVE .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-uRydHthDtO .mbr-section-title {
+.cid-uTnY2tdtVE .mbr-section-title {
   color: #22a5e5;
 }
-.cid-uRydHthDtO .mbr-text,
-.cid-uRydHthDtO .mbr-section-btn {
+.cid-uTnY2tdtVE .mbr-text,
+.cid-uTnY2tdtVE .mbr-section-btn {
   text-align: center;
   color: #232323;
 }
-.cid-uRydHthDtO .item-title {
+.cid-uTnY2tdtVE .item-title {
   text-align: center;
   color: #22a5e5;
 }
-.cid-uRydHthDtO .item-subtitle {
+.cid-uTnY2tdtVE .item-subtitle {
   text-align: left;
 }
-.cid-uRydHthDtO .mbr-section-subtitle {
+.cid-uTnY2tdtVE .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-uRydHtWRk0 {
@@ -9461,27 +9458,24 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uREOWfmRBB {
+.cid-uTnF4SCmIM {
   padding-top: 3rem;
   padding-bottom: 1rem;
   background-color: #232323;
 }
-.cid-uREOWfmRBB img,
-.cid-uREOWfmRBB .item-img {
+.cid-uTnF4SCmIM img,
+.cid-uTnF4SCmIM .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
-.cid-uREOWfmRBB .item:focus,
-.cid-uREOWfmRBB span:focus {
+.cid-uTnF4SCmIM .item:focus,
+.cid-uTnF4SCmIM span:focus {
   outline: none;
 }
-.cid-uREOWfmRBB .item {
+.cid-uTnF4SCmIM .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-uREOWfmRBB .item-wrapper {
+.cid-uTnF4SCmIM .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #ffffff;
@@ -9490,41 +9484,41 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-uREOWfmRBB .item-wrapper .item-content {
+  .cid-uTnF4SCmIM .item-wrapper .item-content {
     padding: 2rem 2rem 0;
   }
-  .cid-uREOWfmRBB .item-wrapper .item-footer {
+  .cid-uTnF4SCmIM .item-wrapper .item-footer {
     padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-uREOWfmRBB .item-wrapper .item-content {
+  .cid-uTnF4SCmIM .item-wrapper .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-uREOWfmRBB .item-wrapper .item-footer {
+  .cid-uTnF4SCmIM .item-wrapper .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-uREOWfmRBB .mbr-section-btn {
+.cid-uTnF4SCmIM .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-uREOWfmRBB .mbr-section-title {
+.cid-uTnF4SCmIM .mbr-section-title {
   color: #22a5e5;
 }
-.cid-uREOWfmRBB .mbr-text,
-.cid-uREOWfmRBB .mbr-section-btn {
+.cid-uTnF4SCmIM .mbr-text,
+.cid-uTnF4SCmIM .mbr-section-btn {
   text-align: center;
   color: #232323;
 }
-.cid-uREOWfmRBB .item-title {
+.cid-uTnF4SCmIM .item-title {
   text-align: center;
   color: #22a5e5;
 }
-.cid-uREOWfmRBB .item-subtitle {
+.cid-uTnF4SCmIM .item-subtitle {
   text-align: center;
   color: #000000;
 }
-.cid-uREOWfmRBB .mbr-section-subtitle {
+.cid-uTnF4SCmIM .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-uSJ5hk7g8n {
@@ -10250,5 +10244,510 @@ a {
   }
 }
 .cid-uT3cTKZywi .mbr-section-subtitle {
+  color: #22a5e5;
+}
+.cid-uThOq24cyZ .navbar-dropdown {
+  position: relative !important;
+}
+.cid-uThOq24cyZ .navbar-dropdown {
+  position: absolute !important;
+}
+.cid-uThOq24cyZ .dropdown-item:before {
+  font-family: Moririse2 !important;
+  content: "\e966";
+  display: inline-block;
+  width: 0;
+  position: absolute;
+  left: 1rem;
+  top: 0.5rem;
+  margin-right: 0.5rem;
+  line-height: 1;
+  font-size: inherit;
+  vertical-align: middle;
+  text-align: center;
+  overflow: hidden;
+  transform: scale(0, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-uThOq24cyZ .dropdown-menu {
+  padding: 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+.cid-uThOq24cyZ .dropdown-item {
+  border-bottom: 1px solid #e6e6e6;
+}
+.cid-uThOq24cyZ .dropdown-item:hover,
+.cid-uThOq24cyZ .dropdown-item:focus {
+  background: #000000 !important;
+  color: white !important;
+}
+.cid-uThOq24cyZ .dropdown-item:first-child {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.cid-uThOq24cyZ .dropdown-item:last-child {
+  border-bottom: none;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.cid-uThOq24cyZ .nav-dropdown .link {
+  padding: 0 0.3em !important;
+  margin: 0.667em 1em !important;
+}
+.cid-uThOq24cyZ .nav-dropdown .link.dropdown-toggle::after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+}
+.cid-uThOq24cyZ .nav-link {
+  position: relative;
+}
+.cid-uThOq24cyZ .container {
+  display: flex;
+  margin: auto;
+}
+.cid-uThOq24cyZ .iconfont-wrapper {
+  color: #ffffff !important;
+  font-size: 1.5rem;
+  padding-right: 0.5rem;
+}
+.cid-uThOq24cyZ .dropdown-menu,
+.cid-uThOq24cyZ .navbar.opened {
+  background: #232323 !important;
+}
+.cid-uThOq24cyZ .nav-item:focus,
+.cid-uThOq24cyZ .nav-link:focus {
+  outline: none;
+}
+.cid-uThOq24cyZ .dropdown .dropdown-menu .dropdown-item {
+  width: auto;
+  transition: all 0.25s ease-in-out;
+}
+.cid-uThOq24cyZ .dropdown .dropdown-menu .dropdown-item::after {
+  right: 0.5rem;
+}
+.cid-uThOq24cyZ .dropdown .dropdown-menu .dropdown-item .mbr-iconfont {
+  margin-right: 0.5rem;
+  vertical-align: sub;
+}
+.cid-uThOq24cyZ .dropdown .dropdown-menu .dropdown-item .mbr-iconfont:before {
+  display: inline-block;
+  transform: scale(1, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-uThOq24cyZ .collapsed .dropdown-menu .dropdown-item:before {
+  display: none;
+}
+.cid-uThOq24cyZ .collapsed .dropdown .dropdown-menu .dropdown-item {
+  padding: 0.235em 1.5em 0.235em 1.5em !important;
+  transition: none;
+  margin: 0 !important;
+}
+.cid-uThOq24cyZ .navbar {
+  min-height: 70px;
+  transition: all 0.3s;
+  border-bottom: 1px solid transparent;
+  background: rgba(35, 35, 35, 0.2);
+}
+.cid-uThOq24cyZ .navbar.opened {
+  transition: all 0.3s;
+}
+.cid-uThOq24cyZ .navbar .dropdown-item {
+  padding: 0.5rem 1.8rem;
+}
+.cid-uThOq24cyZ .navbar .navbar-logo img {
+  width: auto;
+}
+.cid-uThOq24cyZ .navbar .navbar-collapse {
+  justify-content: flex-end;
+  z-index: 1;
+}
+.cid-uThOq24cyZ .navbar.collapsed {
+  justify-content: center;
+}
+.cid-uThOq24cyZ .navbar.collapsed .nav-item .nav-link::before {
+  display: none;
+}
+.cid-uThOq24cyZ .navbar.collapsed.opened .dropdown-menu {
+  top: 0;
+}
+@media (min-width: 992px) {
+  .cid-uThOq24cyZ .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 4rem);
+  }
+}
+.cid-uThOq24cyZ .navbar.collapsed .dropdown-menu .dropdown-submenu {
+  left: 0 !important;
+}
+.cid-uThOq24cyZ .navbar.collapsed .dropdown-menu .dropdown-item:after {
+  right: auto;
+}
+.cid-uThOq24cyZ .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+  border-top: 0.35em solid;
+  border-right: 0.35em solid transparent;
+  border-left: 0.35em solid transparent;
+  border-bottom: 0;
+  top: 41%;
+}
+.cid-uThOq24cyZ .navbar.collapsed ul.navbar-nav li {
+  margin: auto;
+}
+.cid-uThOq24cyZ .navbar.collapsed .dropdown-menu .dropdown-item {
+  padding: 0.25rem 1.5rem;
+  text-align: center;
+}
+.cid-uThOq24cyZ .navbar.collapsed .icons-menu {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+@media (max-width: 991px) {
+  .cid-uThOq24cyZ .navbar .nav-item .nav-link::before {
+    display: none;
+  }
+  .cid-uThOq24cyZ .navbar.opened .dropdown-menu {
+    top: 0;
+  }
+  .cid-uThOq24cyZ .navbar .dropdown-menu .dropdown-submenu {
+    left: 0 !important;
+  }
+  .cid-uThOq24cyZ .navbar .dropdown-menu .dropdown-item:after {
+    right: auto;
+  }
+  .cid-uThOq24cyZ .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+    border-top: 0.35em solid;
+    border-right: 0.35em solid transparent;
+    border-left: 0.35em solid transparent;
+    border-bottom: 0;
+    top: 40%;
+  }
+  .cid-uThOq24cyZ .navbar .navbar-logo img {
+    height: 3rem !important;
+  }
+  .cid-uThOq24cyZ .navbar ul.navbar-nav li {
+    margin: auto;
+  }
+  .cid-uThOq24cyZ .navbar .dropdown-menu .dropdown-item {
+    padding: 0.25rem 1.5rem !important;
+    text-align: center;
+  }
+  .cid-uThOq24cyZ .navbar .navbar-brand {
+    flex-shrink: initial;
+    flex-basis: auto;
+    word-break: break-word;
+    padding-right: 2rem;
+  }
+  .cid-uThOq24cyZ .navbar .navbar-toggler {
+    flex-basis: auto;
+  }
+  .cid-uThOq24cyZ .navbar .icons-menu {
+    padding-left: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+.cid-uThOq24cyZ .navbar.navbar-short {
+  min-height: 60px;
+}
+.cid-uThOq24cyZ .navbar.navbar-short .navbar-logo img {
+  height: 2.5rem !important;
+}
+.cid-uThOq24cyZ .navbar.navbar-short .navbar-brand {
+  min-height: 60px;
+  padding: 0;
+}
+.cid-uThOq24cyZ .navbar-brand {
+  min-height: 70px;
+  flex-shrink: 0;
+  align-items: center;
+  margin-right: 0;
+  padding: 10px 0;
+  transition: all 0.3s;
+  word-break: break-word;
+  z-index: 1;
+}
+.cid-uThOq24cyZ .navbar-brand .navbar-caption {
+  line-height: inherit !important;
+}
+.cid-uThOq24cyZ .navbar-brand .navbar-logo a {
+  outline: none;
+}
+.cid-uThOq24cyZ .dropdown-item.active,
+.cid-uThOq24cyZ .dropdown-item:active {
+  background-color: transparent;
+}
+.cid-uThOq24cyZ .navbar-expand-lg .navbar-nav .nav-link {
+  padding: 0;
+}
+.cid-uThOq24cyZ .nav-dropdown .link.dropdown-toggle {
+  margin-right: 1.667em;
+}
+.cid-uThOq24cyZ .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
+  margin-right: 0;
+  padding: 0.667em 1.667em;
+}
+.cid-uThOq24cyZ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
+  background: #232323;
+}
+.cid-uThOq24cyZ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
+  margin: 0;
+  left: 100%;
+}
+.cid-uThOq24cyZ .navbar .dropdown.open > .dropdown-menu {
+  display: block;
+}
+.cid-uThOq24cyZ ul.navbar-nav {
+  flex-wrap: wrap;
+}
+.cid-uThOq24cyZ .navbar-buttons {
+  text-align: center;
+  min-width: 170px;
+}
+.cid-uThOq24cyZ button.navbar-toggler {
+  outline: none;
+  width: 31px;
+  height: 20px;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+  align-self: center;
+}
+.cid-uThOq24cyZ button.navbar-toggler .hamburger span {
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 2px;
+  border-right: 5px;
+  background-color: #ffffff;
+}
+.cid-uThOq24cyZ button.navbar-toggler .hamburger span:nth-child(1) {
+  top: 0;
+  transition: all 0.2s;
+}
+.cid-uThOq24cyZ button.navbar-toggler .hamburger span:nth-child(2) {
+  top: 8px;
+  transition: all 0.15s;
+}
+.cid-uThOq24cyZ button.navbar-toggler .hamburger span:nth-child(3) {
+  top: 8px;
+  transition: all 0.15s;
+}
+.cid-uThOq24cyZ button.navbar-toggler .hamburger span:nth-child(4) {
+  top: 16px;
+  transition: all 0.2s;
+}
+.cid-uThOq24cyZ nav.opened .hamburger span:nth-child(1) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all 0.2s;
+}
+.cid-uThOq24cyZ nav.opened .hamburger span:nth-child(2) {
+  transform: rotate(45deg);
+  transition: all 0.25s;
+}
+.cid-uThOq24cyZ nav.opened .hamburger span:nth-child(3) {
+  transform: rotate(-45deg);
+  transition: all 0.25s;
+}
+.cid-uThOq24cyZ nav.opened .hamburger span:nth-child(4) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all 0.2s;
+}
+.cid-uThOq24cyZ .navbar-dropdown {
+  padding: 0 1rem;
+}
+.cid-uThOq24cyZ a.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cid-uThOq24cyZ .icons-menu {
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.3rem;
+  text-align: center;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-uThOq24cyZ .navbar {
+    height: 70px;
+  }
+  .cid-uThOq24cyZ .navbar.opened {
+    height: auto;
+  }
+  .cid-uThOq24cyZ .nav-item .nav-link:hover::before {
+    width: 175%;
+    max-width: calc(100% + 2rem);
+    left: -1rem;
+  }
+}
+.cid-uThOq2QxsJ {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-faqs.webp");
+}
+.cid-uThOq2QxsJ .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-uThOq2QxsJ .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-uThOq2QxsJ .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-uThOq2QxsJ .mbr-text {
+  color: #ffffff;
+}
+.cid-uThOq2QxsJ .card {
+  padding-bottom: 1.5rem;
+}
+.cid-uThOq2QxsJ .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-uThOq2QxsJ .card-wrapper .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
+}
+.cid-uThOq2QxsJ .card-wrapper .card-title {
+  color: #ffffff;
+}
+.cid-uThOq2QxsJ H1 {
+  color: #ffffff;
+}
+.cid-uThOq2QxsJ .mbr-text,
+.cid-uThOq2QxsJ .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-uThOq2QxsJ .card-wrapper .card-title,
+.cid-uThOq2QxsJ .card-box {
+  color: #ffffff;
+}
+.cid-uThOq3y0dR {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-uThOq3y0dR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uThOq3y0dR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uThOq3y0dR .mbr-section-title {
+  color: #22a5e5;
+}
+.cid-uThOq4bFzi {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #000000;
+}
+.cid-uThOq4bFzi .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uThOq4bFzi .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uThOq4bFzi .media-wrap {
+  padding: 0;
+}
+@media (max-width: 991px) {
+  .cid-uThOq4bFzi .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uThOq4bFzi .row {
+    text-align: center;
+  }
+  .cid-uThOq4bFzi .row > div {
+    margin: auto;
+  }
+  .cid-uThOq4bFzi .social-row {
+    justify-content: center;
+  }
+}
+.cid-uThOq4bFzi .social-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-uThOq4bFzi .list {
+  list-style: none;
+  padding-left: 0;
+  color: #bbbbbb;
+}
+@media (max-width: 991px) {
+  .cid-uThOq4bFzi .list {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uThOq4bFzi .list {
+    margin-bottom: 0rem;
+  }
+}
+.cid-uThOq4bFzi .mbr-text {
+  color: #ffffff;
+}
+.cid-uThOq4bFzi .soc-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: white;
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+.cid-uThOq4bFzi .mbr-iconfont {
+  color: black;
+}
+@media (max-width: 991px) {
+  .cid-uThOq4bFzi div > *:last-child {
+    margin-top: 0 !important;
+  }
+}
+.cid-uThOq4bFzi .mbr-section-subtitle {
   color: #22a5e5;
 }
