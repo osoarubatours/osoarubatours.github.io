@@ -813,7 +813,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(35, 35, 35, 0.2);
+  background: rgba(35, 35, 35, 0.4);
 }
 .cid-uQFVNPxjxL .navbar.opened {
   transition: all 0.3s;
@@ -989,7 +989,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #e43f3f;
 }
 .cid-uQFVNPxjxL button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1059,15 +1059,13 @@ a {
     left: -1rem;
   }
 }
-.cid-uQOMKlDce2 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+.cid-uUg09q4GZk {
   background-image: url("../../../assets/images/oso-aruba-jeep-tours-header.webp");
 }
-.cid-uQOMKlDce2 .mbr-fallback-image.disabled {
+.cid-uUg09q4GZk .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uQOMKlDce2 .mbr-fallback-image {
+.cid-uUg09q4GZk .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1075,6 +1073,35 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-uUg09q4GZk .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-uUg09q4GZk .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #e43f3f;
+  transition: all 0.3s;
+  color: #e43f3f;
+}
+.cid-uUg09q4GZk .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #e43f3f;
+  color: #ffffff;
+}
+.cid-uUg09q4GZk .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uUg09q4GZk .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uUg09q4GZk .mbr-text,
+.cid-uUg09q4GZk .mbr-section-btn,
+.cid-uUg09q4GZk .social-row {
+  color: #ffffff;
 }
 .cid-uRk3a0VCdZ {
   padding-top: 4rem;
@@ -1093,15 +1120,15 @@ a {
   color: #ffffff;
   text-align: center;
 }
-.cid-uTNgheN9aA {
+.cid-uTOGHf51mn {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNgheN9aA .mbr-fallback-image.disabled {
+.cid-uTOGHf51mn .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNgheN9aA .mbr-fallback-image {
+.cid-uTOGHf51mn .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1110,37 +1137,76 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNgheN9aA [class^="socicon-"]:before,
-.cid-uTNgheN9aA [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOGHf51mn .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNgheN9aA .btn-social {
+.cid-uTOGHf51mn .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOGHf51mn .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOGHf51mn .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOGHf51mn .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOGHf51mn .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOGHf51mn .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOGHf51mn .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOGHf51mn .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOGHf51mn .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOGHf51mn .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOGHf51mn .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOGHf51mn .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNgheN9aA .btn-social:hover {
-  background: #ff6666;
+.cid-uTOGHf51mn .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNgheN9aA .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOGHf51mn [class^="socicon-"]:before,
+.cid-uTOGHf51mn [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNgheN9aA .mbr-section-title,
-.cid-uTNgheN9aA .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOGHf51mn .mbr-section-title,
+.cid-uTOGHf51mn .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-sFGGDvi61Z {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #191919;
 }
 .cid-sFGGDvi61Z img,
@@ -1260,7 +1326,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -1725,7 +1791,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -2168,7 +2234,7 @@ a {
   top: 0;
 }
 .cid-uMlKm2Z3Y0 {
-  padding-top: 3rem;
+  padding-top: 4rem;
   padding-bottom: 1rem;
   background-color: #191919;
 }
@@ -2213,7 +2279,7 @@ a {
   color: #e43f3f;
 }
 .cid-uMlKm2Z3Y0 P {
-  color: #232323;
+  color: #000000;
 }
 .cid-uMlKm2Z3Y0 .mbr-section-title {
   color: #e43f3f;
@@ -2269,15 +2335,15 @@ a {
 .cid-uMlKoBTsZ6 .mbr-section-title {
   color: #e43f3f;
 }
-.cid-uTNfPryEZd {
+.cid-uTOHBOm4vz {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNfPryEZd .mbr-fallback-image.disabled {
+.cid-uTOHBOm4vz .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNfPryEZd .mbr-fallback-image {
+.cid-uTOHBOm4vz .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2286,33 +2352,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNfPryEZd [class^="socicon-"]:before,
-.cid-uTNfPryEZd [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOHBOm4vz .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNfPryEZd .btn-social {
+.cid-uTOHBOm4vz .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOHBOm4vz .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOHBOm4vz .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOHBOm4vz .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOHBOm4vz .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOHBOm4vz .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOHBOm4vz .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOHBOm4vz .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOHBOm4vz .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOHBOm4vz .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOHBOm4vz .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOHBOm4vz .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNfPryEZd .btn-social:hover {
-  background: #ff6666;
+.cid-uTOHBOm4vz .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNfPryEZd .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOHBOm4vz [class^="socicon-"]:before,
+.cid-uTOHBOm4vz [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNfPryEZd .mbr-section-title,
-.cid-uTNfPryEZd .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOHBOm4vz .mbr-section-title,
+.cid-uTOHBOm4vz .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uMlKtaGXS9 {
   padding-top: 1rem;
@@ -2344,7 +2449,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -2849,15 +2954,15 @@ a {
 .cid-uTm0doQtws .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNhAEG5Ol {
+.cid-uTOHnsNzua {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNhAEG5Ol .mbr-fallback-image.disabled {
+.cid-uTOHnsNzua .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNhAEG5Ol .mbr-fallback-image {
+.cid-uTOHnsNzua .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2866,33 +2971,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNhAEG5Ol [class^="socicon-"]:before,
-.cid-uTNhAEG5Ol [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOHnsNzua .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNhAEG5Ol .btn-social {
+.cid-uTOHnsNzua .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOHnsNzua .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOHnsNzua .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOHnsNzua .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOHnsNzua .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOHnsNzua .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOHnsNzua .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOHnsNzua .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOHnsNzua .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOHnsNzua .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOHnsNzua .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOHnsNzua .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNhAEG5Ol .btn-social:hover {
-  background: #ff6666;
+.cid-uTOHnsNzua .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNhAEG5Ol .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOHnsNzua [class^="socicon-"]:before,
+.cid-uTOHnsNzua [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNhAEG5Ol .mbr-section-title,
-.cid-uTNhAEG5Ol .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOHnsNzua .mbr-section-title,
+.cid-uTOHnsNzua .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uMiJMNW7ti {
   padding-top: 1rem;
@@ -2920,7 +3064,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -3385,15 +3529,15 @@ a {
 .cid-uReioL0akP .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNgsteIEX {
+.cid-uTOGEdkHDr {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNgsteIEX .mbr-fallback-image.disabled {
+.cid-uTOGEdkHDr .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNgsteIEX .mbr-fallback-image {
+.cid-uTOGEdkHDr .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3402,33 +3546,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNgsteIEX [class^="socicon-"]:before,
-.cid-uTNgsteIEX [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOGEdkHDr .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNgsteIEX .btn-social {
+.cid-uTOGEdkHDr .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOGEdkHDr .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOGEdkHDr .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOGEdkHDr .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOGEdkHDr .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOGEdkHDr .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOGEdkHDr .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOGEdkHDr .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOGEdkHDr .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOGEdkHDr .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOGEdkHDr .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOGEdkHDr .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNgsteIEX .btn-social:hover {
-  background: #ff6666;
+.cid-uTOGEdkHDr .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNgsteIEX .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOGEdkHDr [class^="socicon-"]:before,
+.cid-uTOGEdkHDr [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNgsteIEX .mbr-section-title,
-.cid-uTNgsteIEX .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOGEdkHDr .mbr-section-title,
+.cid-uTOGEdkHDr .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uRfz3QyDQW {
   padding-top: 1rem;
@@ -3465,7 +3648,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -3970,7 +4153,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -4454,7 +4637,7 @@ a {
 }
 .cid-uQLbwI40yv {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-uQLbwI40yv .mbr-fallback-image.disabled {
@@ -4475,7 +4658,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -4920,7 +5103,7 @@ a {
 .cid-uRlQh5h5IR {
   padding-top: 4rem;
   padding-bottom: 0rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRlQh5h5IR .mbr-fallback-image.disabled {
   display: none;
@@ -4940,15 +5123,15 @@ a {
 .cid-uRlQh5h5IR .mbr-section-title {
   color: #e43f3f;
 }
-.cid-uTNgOMVVir {
+.cid-uTOFKouSUG {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #191919;
 }
-.cid-uTNgOMVVir .mbr-fallback-image.disabled {
+.cid-uTOFKouSUG .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNgOMVVir .mbr-fallback-image {
+.cid-uTOFKouSUG .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4957,38 +5140,77 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNgOMVVir [class^="socicon-"]:before,
-.cid-uTNgOMVVir [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOFKouSUG .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNgOMVVir .btn-social {
+.cid-uTOFKouSUG .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOFKouSUG .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOFKouSUG .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOFKouSUG .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOFKouSUG .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOFKouSUG .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOFKouSUG .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOFKouSUG .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOFKouSUG .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOFKouSUG .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOFKouSUG .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOFKouSUG .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNgOMVVir .btn-social:hover {
-  background: #ff6666;
+.cid-uTOFKouSUG .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNgOMVVir .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOFKouSUG [class^="socicon-"]:before,
+.cid-uTOFKouSUG [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNgOMVVir .mbr-section-title,
-.cid-uTNgOMVVir .mbr-social-likes {
+.cid-uTOFKouSUG .mbr-section-title,
+.cid-uTOFKouSUG .mbr-social-likes {
   color: #ffffff;
 }
 .cid-uTnHzQTnIN {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uTnHzQTnIN img,
 .cid-uTnHzQTnIN .item-img {
@@ -5053,7 +5275,7 @@ a {
 .cid-uQM9A0ap7m {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uQM9A0ap7m .line {
   background-color: #e43f3f;
@@ -5067,7 +5289,7 @@ a {
 .cid-uQM9A0upMN {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uQM9A0upMN .mbr-fallback-image.disabled {
   display: none;
@@ -5090,7 +5312,7 @@ a {
 .cid-uQM9A0URDH {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uQM9A0URDH .mbr-fallback-image.disabled {
   display: none;
@@ -5113,7 +5335,7 @@ a {
 .cid-uQM9A1mlOZ {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uQM9A1mlOZ .mbr-fallback-image.disabled {
   display: none;
@@ -5136,7 +5358,7 @@ a {
 .cid-uQM9A1KdHQ {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uQM9A1KdHQ .mbr-fallback-image.disabled {
   display: none;
@@ -5159,7 +5381,7 @@ a {
 .cid-uRmBepy53C {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRmBepy53C .mbr-fallback-image.disabled {
   display: none;
@@ -5182,7 +5404,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -5709,15 +5931,15 @@ a {
 .cid-uQT4074AzR H4 {
   color: #000000;
 }
-.cid-uTNfY2cAlg {
+.cid-uTOHFZUaWC {
   padding-top: 1rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
-.cid-uTNfY2cAlg .mbr-fallback-image.disabled {
+.cid-uTOHFZUaWC .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNfY2cAlg .mbr-fallback-image {
+.cid-uTOHFZUaWC .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5726,38 +5948,77 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNfY2cAlg [class^="socicon-"]:before,
-.cid-uTNfY2cAlg [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOHFZUaWC .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNfY2cAlg .btn-social {
+.cid-uTOHFZUaWC .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOHFZUaWC .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOHFZUaWC .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOHFZUaWC .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOHFZUaWC .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOHFZUaWC .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOHFZUaWC .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOHFZUaWC .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOHFZUaWC .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOHFZUaWC .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOHFZUaWC .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOHFZUaWC .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #e43f3f;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #e43f3f;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNfY2cAlg .btn-social:hover {
-  background: #e43f3f;
+.cid-uTOHFZUaWC .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNfY2cAlg .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOHFZUaWC [class^="socicon-"]:before,
+.cid-uTOHFZUaWC [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNfY2cAlg .mbr-section-title,
-.cid-uTNfY2cAlg .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOHFZUaWC .mbr-section-title,
+.cid-uTOHFZUaWC .mbr-social-likes {
+  color: #000000;
 }
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -6324,15 +6585,15 @@ a {
     display: none !important;
   }
 }
-.cid-uTNfuZF73e {
-  padding-top: 1rem;
+.cid-uTOHuR3qEF {
+  padding-top: 2rem;
   padding-bottom: 4rem;
   background-color: #191919;
 }
-.cid-uTNfuZF73e .mbr-fallback-image.disabled {
+.cid-uTOHuR3qEF .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNfuZF73e .mbr-fallback-image {
+.cid-uTOHuR3qEF .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -6341,38 +6602,77 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNfuZF73e [class^="socicon-"]:before,
-.cid-uTNfuZF73e [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOHuR3qEF .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNfuZF73e .btn-social {
+.cid-uTOHuR3qEF .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOHuR3qEF .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOHuR3qEF .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOHuR3qEF .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOHuR3qEF .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOHuR3qEF .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOHuR3qEF .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOHuR3qEF .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOHuR3qEF .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOHuR3qEF .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOHuR3qEF .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOHuR3qEF .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNfuZF73e .btn-social:hover {
-  background: #ff6666;
+.cid-uTOHuR3qEF .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNfuZF73e .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOHuR3qEF [class^="socicon-"]:before,
+.cid-uTOHuR3qEF [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNfuZF73e .mbr-section-title,
-.cid-uTNfuZF73e .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOHuR3qEF .mbr-section-title,
+.cid-uTOHuR3qEF .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -6817,7 +7117,7 @@ a {
 .cid-uRdyf5j5Rd {
   padding-top: 4rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRdyf5j5Rd img,
 .cid-uRdyf5j5Rd .item-img {
@@ -6877,15 +7177,15 @@ a {
 .cid-uRdyf5j5Rd .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNhoO11NV {
+.cid-uTOH40LEFT {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #191919;
 }
-.cid-uTNhoO11NV .mbr-fallback-image.disabled {
+.cid-uTOH40LEFT .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNhoO11NV .mbr-fallback-image {
+.cid-uTOH40LEFT .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -6894,38 +7194,77 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNhoO11NV [class^="socicon-"]:before,
-.cid-uTNhoO11NV [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOH40LEFT .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNhoO11NV .btn-social {
+.cid-uTOH40LEFT .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOH40LEFT .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOH40LEFT .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOH40LEFT .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOH40LEFT .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOH40LEFT .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOH40LEFT .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOH40LEFT .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOH40LEFT .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOH40LEFT .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOH40LEFT .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOH40LEFT .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNhoO11NV .btn-social:hover {
-  background: #ff6666;
+.cid-uTOH40LEFT .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNhoO11NV .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOH40LEFT [class^="socicon-"]:before,
+.cid-uTOH40LEFT [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNhoO11NV .mbr-section-title,
-.cid-uTNhoO11NV .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOH40LEFT .mbr-section-title,
+.cid-uTOH40LEFT .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uRbDYWrUjW {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRbDYWrUjW .line {
   background-color: #e43f3f;
@@ -6939,7 +7278,7 @@ a {
 .cid-uRbDYWNZ8H {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRbDYWNZ8H .mbr-fallback-image.disabled {
   display: none;
@@ -6962,7 +7301,7 @@ a {
 .cid-uRbDYXc8h9 {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRbDYXc8h9 .mbr-fallback-image.disabled {
   display: none;
@@ -6985,7 +7324,7 @@ a {
 .cid-uRbDYXEi0I {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRbDYXEi0I .mbr-fallback-image.disabled {
   display: none;
@@ -7008,7 +7347,7 @@ a {
 .cid-uRbDYY6FY8 {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #191919;
 }
 .cid-uRbDYY6FY8 .mbr-fallback-image.disabled {
   display: none;
@@ -7031,7 +7370,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -7536,15 +7875,15 @@ a {
 .cid-uRbSk5DJbJ .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNhb6as8f {
+.cid-uTOGZGWLiY {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNhb6as8f .mbr-fallback-image.disabled {
+.cid-uTOGZGWLiY .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNhb6as8f .mbr-fallback-image {
+.cid-uTOGZGWLiY .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -7553,33 +7892,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNhb6as8f [class^="socicon-"]:before,
-.cid-uTNhb6as8f [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOGZGWLiY .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNhb6as8f .btn-social {
+.cid-uTOGZGWLiY .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOGZGWLiY .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOGZGWLiY .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOGZGWLiY .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOGZGWLiY .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOGZGWLiY .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOGZGWLiY .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOGZGWLiY .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOGZGWLiY .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOGZGWLiY .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOGZGWLiY .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOGZGWLiY .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNhb6as8f .btn-social:hover {
-  background: #ff6666;
+.cid-uTOGZGWLiY .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNhb6as8f .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOGZGWLiY [class^="socicon-"]:before,
+.cid-uTOGZGWLiY [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNhb6as8f .mbr-section-title,
-.cid-uTNhb6as8f .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOGZGWLiY .mbr-section-title,
+.cid-uTOGZGWLiY .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uRbE7WOvce {
   padding-top: 1rem;
@@ -7713,7 +8091,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -8218,15 +8596,15 @@ a {
 .cid-uRlIXXEUpq .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNgSDZbKY {
+.cid-uTOGW7C8kk {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNgSDZbKY .mbr-fallback-image.disabled {
+.cid-uTOGW7C8kk .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNgSDZbKY .mbr-fallback-image {
+.cid-uTOGW7C8kk .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -8235,33 +8613,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNgSDZbKY [class^="socicon-"]:before,
-.cid-uTNgSDZbKY [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOGW7C8kk .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNgSDZbKY .btn-social {
+.cid-uTOGW7C8kk .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOGW7C8kk .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOGW7C8kk .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOGW7C8kk .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOGW7C8kk .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOGW7C8kk .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOGW7C8kk .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOGW7C8kk .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOGW7C8kk .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOGW7C8kk .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOGW7C8kk .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOGW7C8kk .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #e43f3f;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #e43f3f;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNgSDZbKY .btn-social:hover {
-  background: #e43f3f;
+.cid-uTOGW7C8kk .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNgSDZbKY .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOGW7C8kk [class^="socicon-"]:before,
+.cid-uTOGW7C8kk [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNgSDZbKY .mbr-section-title,
-.cid-uTNgSDZbKY .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOGW7C8kk .mbr-section-title,
+.cid-uTOGW7C8kk .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uRlIXYJg55 {
   padding-top: 1rem;
@@ -8395,7 +8812,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -8860,15 +9277,15 @@ a {
 .cid-uRydHssDS5 .mbr-section-title {
   color: #e43f3f;
 }
-.cid-uTNgFDxiWT {
+.cid-uTOGzaSWUN {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNgFDxiWT .mbr-fallback-image.disabled {
+.cid-uTOGzaSWUN .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNgFDxiWT .mbr-fallback-image {
+.cid-uTOGzaSWUN .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -8877,33 +9294,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNgFDxiWT [class^="socicon-"]:before,
-.cid-uTNgFDxiWT [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOGzaSWUN .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNgFDxiWT .btn-social {
+.cid-uTOGzaSWUN .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOGzaSWUN .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOGzaSWUN .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOGzaSWUN .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOGzaSWUN .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOGzaSWUN .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOGzaSWUN .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOGzaSWUN .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOGzaSWUN .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOGzaSWUN .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOGzaSWUN .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOGzaSWUN .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNgFDxiWT .btn-social:hover {
-  background: #ff6666;
+.cid-uTOGzaSWUN .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNgFDxiWT .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOGzaSWUN [class^="socicon-"]:before,
+.cid-uTOGzaSWUN [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNgFDxiWT .mbr-section-title,
-.cid-uTNgFDxiWT .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOGzaSWUN .mbr-section-title,
+.cid-uTOGzaSWUN .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uTnY2tdtVE {
   padding-top: 1rem;
@@ -9102,7 +9558,7 @@ a {
 .cid-uRyeQDfQER {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uRyeQDfQER .mbr-fallback-image.disabled {
   display: none;
@@ -9607,15 +10063,15 @@ a {
 .cid-uTnF4SCmIM .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNhFdseKa {
+.cid-uTOHrbOgQl {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNhFdseKa .mbr-fallback-image.disabled {
+.cid-uTOHrbOgQl .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNhFdseKa .mbr-fallback-image {
+.cid-uTOHrbOgQl .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -9624,33 +10080,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNhFdseKa [class^="socicon-"]:before,
-.cid-uTNhFdseKa [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOHrbOgQl .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNhFdseKa .btn-social {
+.cid-uTOHrbOgQl .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOHrbOgQl .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOHrbOgQl .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOHrbOgQl .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOHrbOgQl .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOHrbOgQl .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOHrbOgQl .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOHrbOgQl .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOHrbOgQl .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOHrbOgQl .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOHrbOgQl .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOHrbOgQl .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNhFdseKa .btn-social:hover {
-  background: #ff6666;
+.cid-uTOHrbOgQl .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNhFdseKa .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOHrbOgQl [class^="socicon-"]:before,
+.cid-uTOHrbOgQl [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNhFdseKa .mbr-section-title,
-.cid-uTNhFdseKa .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOHrbOgQl .mbr-section-title,
+.cid-uTOHrbOgQl .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uREOWg1ghK {
   padding-top: 1rem;
@@ -9678,7 +10173,7 @@ a {
 .cid-uREOWgriKn {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uREOWgriKn .mbr-fallback-image.disabled {
   display: none;
@@ -10183,15 +10678,15 @@ a {
 .cid-uT3cTJyJdg .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uTNfgW0Noy {
+.cid-uTOHjHEznW {
   padding-top: 1rem;
   padding-bottom: 2rem;
   background-color: #191919;
 }
-.cid-uTNfgW0Noy .mbr-fallback-image.disabled {
+.cid-uTOHjHEznW .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uTNfgW0Noy .mbr-fallback-image {
+.cid-uTOHjHEznW .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -10200,33 +10695,72 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uTNfgW0Noy [class^="socicon-"]:before,
-.cid-uTNfgW0Noy [class*=" socicon-"]:before {
-  line-height: 55px;
+.cid-uTOHjHEznW .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
 }
-.cid-uTNfgW0Noy .btn-social {
+.cid-uTOHjHEznW .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uTOHjHEznW .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uTOHjHEznW .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uTOHjHEznW .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uTOHjHEznW .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uTOHjHEznW .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uTOHjHEznW .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uTOHjHEznW .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uTOHjHEznW .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uTOHjHEznW .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uTOHjHEznW .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uTOHjHEznW .btn-social {
   font-size: 32px;
   border-radius: 50%;
+  padding: 0;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  padding: 0;
   position: relative;
   cursor: pointer;
-  color: #ff6666;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ff6666;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
 }
-.cid-uTNfgW0Noy .btn-social:hover {
-  background: #ff6666;
+.cid-uTOHjHEznW .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
 }
-.cid-uTNfgW0Noy .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-uTOHjHEznW [class^="socicon-"]:before,
+.cid-uTOHjHEznW [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-uTNfgW0Noy .mbr-section-title,
-.cid-uTNfgW0Noy .mbr-social-likes {
-  color: #ffffff;
+.cid-uTOHjHEznW .mbr-section-title,
+.cid-uTOHjHEznW .mbr-social-likes {
+  color: #fafafa;
 }
 .cid-uT3cTKzRd3 {
   padding-top: 1rem;
@@ -10254,7 +10788,7 @@ a {
 .cid-uT3cTKZywi {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uT3cTKZywi .mbr-fallback-image.disabled {
   display: none;
@@ -10738,7 +11272,7 @@ a {
 }
 .cid-uThOq3y0dR {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-uThOq3y0dR .mbr-fallback-image.disabled {
@@ -10759,7 +11293,7 @@ a {
 .cid-uThOq4bFzi {
   padding-top: 4rem;
   padding-bottom: 3rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
 }
 .cid-uThOq4bFzi .mbr-fallback-image.disabled {
   display: none;
@@ -10835,5 +11369,620 @@ a {
   }
 }
 .cid-uThOq4bFzi .mbr-section-subtitle {
+  color: #e43f3f;
+}
+.cid-uU5WxrK5vn .navbar-dropdown {
+  position: relative !important;
+}
+.cid-uU5WxrK5vn .navbar-dropdown {
+  position: absolute !important;
+}
+.cid-uU5WxrK5vn .dropdown-item:before {
+  font-family: Moririse2 !important;
+  content: "\e966";
+  display: inline-block;
+  width: 0;
+  position: absolute;
+  left: 1rem;
+  top: 0.5rem;
+  margin-right: 0.5rem;
+  line-height: 1;
+  font-size: inherit;
+  vertical-align: middle;
+  text-align: center;
+  overflow: hidden;
+  transform: scale(0, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-uU5WxrK5vn .dropdown-menu {
+  padding: 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+.cid-uU5WxrK5vn .dropdown-item {
+  border-bottom: 1px solid #e6e6e6;
+}
+.cid-uU5WxrK5vn .dropdown-item:hover,
+.cid-uU5WxrK5vn .dropdown-item:focus {
+  background: #000000 !important;
+  color: white !important;
+}
+.cid-uU5WxrK5vn .dropdown-item:first-child {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.cid-uU5WxrK5vn .dropdown-item:last-child {
+  border-bottom: none;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.cid-uU5WxrK5vn .nav-dropdown .link {
+  padding: 0 0.3em !important;
+  margin: 0.667em 1em !important;
+}
+.cid-uU5WxrK5vn .nav-dropdown .link.dropdown-toggle::after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+}
+.cid-uU5WxrK5vn .nav-link {
+  position: relative;
+}
+.cid-uU5WxrK5vn .container {
+  display: flex;
+  margin: auto;
+}
+.cid-uU5WxrK5vn .iconfont-wrapper {
+  color: #ffffff !important;
+  font-size: 1.5rem;
+  padding-right: 0.5rem;
+}
+.cid-uU5WxrK5vn .dropdown-menu,
+.cid-uU5WxrK5vn .navbar.opened {
+  background: #232323 !important;
+}
+.cid-uU5WxrK5vn .nav-item:focus,
+.cid-uU5WxrK5vn .nav-link:focus {
+  outline: none;
+}
+.cid-uU5WxrK5vn .dropdown .dropdown-menu .dropdown-item {
+  width: auto;
+  transition: all 0.25s ease-in-out;
+}
+.cid-uU5WxrK5vn .dropdown .dropdown-menu .dropdown-item::after {
+  right: 0.5rem;
+}
+.cid-uU5WxrK5vn .dropdown .dropdown-menu .dropdown-item .mbr-iconfont {
+  margin-right: 0.5rem;
+  vertical-align: sub;
+}
+.cid-uU5WxrK5vn .dropdown .dropdown-menu .dropdown-item .mbr-iconfont:before {
+  display: inline-block;
+  transform: scale(1, 1);
+  transition: all 0.25s ease-in-out;
+}
+.cid-uU5WxrK5vn .collapsed .dropdown-menu .dropdown-item:before {
+  display: none;
+}
+.cid-uU5WxrK5vn .collapsed .dropdown .dropdown-menu .dropdown-item {
+  padding: 0.235em 1.5em 0.235em 1.5em !important;
+  transition: none;
+  margin: 0 !important;
+}
+.cid-uU5WxrK5vn .navbar {
+  min-height: 70px;
+  transition: all 0.3s;
+  border-bottom: 1px solid transparent;
+  background: rgba(35, 35, 35, 0.2);
+}
+.cid-uU5WxrK5vn .navbar.opened {
+  transition: all 0.3s;
+}
+.cid-uU5WxrK5vn .navbar .dropdown-item {
+  padding: 0.5rem 1.8rem;
+}
+.cid-uU5WxrK5vn .navbar .navbar-logo img {
+  width: auto;
+}
+.cid-uU5WxrK5vn .navbar .navbar-collapse {
+  justify-content: flex-end;
+  z-index: 1;
+}
+.cid-uU5WxrK5vn .navbar.collapsed {
+  justify-content: center;
+}
+.cid-uU5WxrK5vn .navbar.collapsed .nav-item .nav-link::before {
+  display: none;
+}
+.cid-uU5WxrK5vn .navbar.collapsed.opened .dropdown-menu {
+  top: 0;
+}
+@media (min-width: 992px) {
+  .cid-uU5WxrK5vn .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 4rem);
+  }
+}
+.cid-uU5WxrK5vn .navbar.collapsed .dropdown-menu .dropdown-submenu {
+  left: 0 !important;
+}
+.cid-uU5WxrK5vn .navbar.collapsed .dropdown-menu .dropdown-item:after {
+  right: auto;
+}
+.cid-uU5WxrK5vn .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+  border-top: 0.35em solid;
+  border-right: 0.35em solid transparent;
+  border-left: 0.35em solid transparent;
+  border-bottom: 0;
+  top: 41%;
+}
+.cid-uU5WxrK5vn .navbar.collapsed ul.navbar-nav li {
+  margin: auto;
+}
+.cid-uU5WxrK5vn .navbar.collapsed .dropdown-menu .dropdown-item {
+  padding: 0.25rem 1.5rem;
+  text-align: center;
+}
+.cid-uU5WxrK5vn .navbar.collapsed .icons-menu {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+@media (max-width: 991px) {
+  .cid-uU5WxrK5vn .navbar .nav-item .nav-link::before {
+    display: none;
+  }
+  .cid-uU5WxrK5vn .navbar.opened .dropdown-menu {
+    top: 0;
+  }
+  .cid-uU5WxrK5vn .navbar .dropdown-menu .dropdown-submenu {
+    left: 0 !important;
+  }
+  .cid-uU5WxrK5vn .navbar .dropdown-menu .dropdown-item:after {
+    right: auto;
+  }
+  .cid-uU5WxrK5vn .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+    border-top: 0.35em solid;
+    border-right: 0.35em solid transparent;
+    border-left: 0.35em solid transparent;
+    border-bottom: 0;
+    top: 40%;
+  }
+  .cid-uU5WxrK5vn .navbar .navbar-logo img {
+    height: 3rem !important;
+  }
+  .cid-uU5WxrK5vn .navbar ul.navbar-nav li {
+    margin: auto;
+  }
+  .cid-uU5WxrK5vn .navbar .dropdown-menu .dropdown-item {
+    padding: 0.25rem 1.5rem !important;
+    text-align: center;
+  }
+  .cid-uU5WxrK5vn .navbar .navbar-brand {
+    flex-shrink: initial;
+    flex-basis: auto;
+    word-break: break-word;
+    padding-right: 2rem;
+  }
+  .cid-uU5WxrK5vn .navbar .navbar-toggler {
+    flex-basis: auto;
+  }
+  .cid-uU5WxrK5vn .navbar .icons-menu {
+    padding-left: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+.cid-uU5WxrK5vn .navbar.navbar-short {
+  min-height: 60px;
+}
+.cid-uU5WxrK5vn .navbar.navbar-short .navbar-logo img {
+  height: 2.5rem !important;
+}
+.cid-uU5WxrK5vn .navbar.navbar-short .navbar-brand {
+  min-height: 60px;
+  padding: 0;
+}
+.cid-uU5WxrK5vn .navbar-brand {
+  min-height: 70px;
+  flex-shrink: 0;
+  align-items: center;
+  margin-right: 0;
+  padding: 10px 0;
+  transition: all 0.3s;
+  word-break: break-word;
+  z-index: 1;
+}
+.cid-uU5WxrK5vn .navbar-brand .navbar-caption {
+  line-height: inherit !important;
+}
+.cid-uU5WxrK5vn .navbar-brand .navbar-logo a {
+  outline: none;
+}
+.cid-uU5WxrK5vn .dropdown-item.active,
+.cid-uU5WxrK5vn .dropdown-item:active {
+  background-color: transparent;
+}
+.cid-uU5WxrK5vn .navbar-expand-lg .navbar-nav .nav-link {
+  padding: 0;
+}
+.cid-uU5WxrK5vn .nav-dropdown .link.dropdown-toggle {
+  margin-right: 1.667em;
+}
+.cid-uU5WxrK5vn .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
+  margin-right: 0;
+  padding: 0.667em 1.667em;
+}
+.cid-uU5WxrK5vn .navbar.navbar-expand-lg .dropdown .dropdown-menu {
+  background: #232323;
+}
+.cid-uU5WxrK5vn .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
+  margin: 0;
+  left: 100%;
+}
+.cid-uU5WxrK5vn .navbar .dropdown.open > .dropdown-menu {
+  display: block;
+}
+.cid-uU5WxrK5vn ul.navbar-nav {
+  flex-wrap: wrap;
+}
+.cid-uU5WxrK5vn .navbar-buttons {
+  text-align: center;
+  min-width: 170px;
+}
+.cid-uU5WxrK5vn button.navbar-toggler {
+  outline: none;
+  width: 31px;
+  height: 20px;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+  align-self: center;
+}
+.cid-uU5WxrK5vn button.navbar-toggler .hamburger span {
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 2px;
+  border-right: 5px;
+  background-color: #ffffff;
+}
+.cid-uU5WxrK5vn button.navbar-toggler .hamburger span:nth-child(1) {
+  top: 0;
+  transition: all 0.2s;
+}
+.cid-uU5WxrK5vn button.navbar-toggler .hamburger span:nth-child(2) {
+  top: 8px;
+  transition: all 0.15s;
+}
+.cid-uU5WxrK5vn button.navbar-toggler .hamburger span:nth-child(3) {
+  top: 8px;
+  transition: all 0.15s;
+}
+.cid-uU5WxrK5vn button.navbar-toggler .hamburger span:nth-child(4) {
+  top: 16px;
+  transition: all 0.2s;
+}
+.cid-uU5WxrK5vn nav.opened .hamburger span:nth-child(1) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all 0.2s;
+}
+.cid-uU5WxrK5vn nav.opened .hamburger span:nth-child(2) {
+  transform: rotate(45deg);
+  transition: all 0.25s;
+}
+.cid-uU5WxrK5vn nav.opened .hamburger span:nth-child(3) {
+  transform: rotate(-45deg);
+  transition: all 0.25s;
+}
+.cid-uU5WxrK5vn nav.opened .hamburger span:nth-child(4) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all 0.2s;
+}
+.cid-uU5WxrK5vn .navbar-dropdown {
+  padding: 0 1rem;
+}
+.cid-uU5WxrK5vn a.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cid-uU5WxrK5vn .icons-menu {
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.3rem;
+  text-align: center;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-uU5WxrK5vn .navbar {
+    height: 70px;
+  }
+  .cid-uU5WxrK5vn .navbar.opened {
+    height: auto;
+  }
+  .cid-uU5WxrK5vn .nav-item .nav-link:hover::before {
+    width: 175%;
+    max-width: calc(100% + 2rem);
+    left: -1rem;
+  }
+}
+.cid-uU5WxsqMzV {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/oso-aruba-jeep-tours-faqs.webp");
+}
+.cid-uU5WxsqMzV .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-uU5WxsqMzV .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-uU5WxsqMzV .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-uU5WxsqMzV .mbr-text {
+  color: #ffffff;
+}
+.cid-uU5WxsqMzV .card {
+  padding-bottom: 1.5rem;
+}
+.cid-uU5WxsqMzV .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-uU5WxsqMzV .card-wrapper .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
+}
+.cid-uU5WxsqMzV .card-wrapper .card-title {
+  color: #ffffff;
+}
+.cid-uU5WxsqMzV H1 {
+  color: #ffffff;
+}
+.cid-uU5WxsqMzV .mbr-text,
+.cid-uU5WxsqMzV .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-uU5WxsqMzV .card-wrapper .card-title,
+.cid-uU5WxsqMzV .card-box {
+  color: #ffffff;
+}
+.cid-uU5ZCvKbnP {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-uU5ZCvKbnP .counter-container ol {
+  margin-bottom: 0;
+}
+.cid-uU5ZCvKbnP .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-uU5ZCvKbnP .mbr-section-title {
+  color: #e43f3f;
+  text-align: justify;
+}
+.cid-uU5ZCvKbnP .mbr-text {
+  text-align: left;
+}
+.cid-uU9NfACcOp {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-uU9NfACcOp .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uU9NfACcOp .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uU9NfACcOp .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-uU9NfACcOp .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uU9NfACcOp .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uU9NfACcOp .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uU9NfACcOp .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-uU9NfACcOp .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-uU9NfACcOp .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-uU9NfACcOp .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-uU9NfACcOp .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uU9NfACcOp .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uU9NfACcOp .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-uU9NfACcOp .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-uU9NfACcOp .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
+}
+.cid-uU9NfACcOp .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
+}
+.cid-uU9NfACcOp [class^="socicon-"]:before,
+.cid-uU9NfACcOp [class*=" socicon-"]:before {
+  line-height: 55px;
+}
+.cid-uU9NfACcOp .mbr-section-title,
+.cid-uU9NfACcOp .mbr-social-likes {
+  color: #232323;
+}
+.cid-uU9zYrqGEj {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-uU9zYrqGEj .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uU9zYrqGEj .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uU9zYrqGEj .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uU9zYrqGEj .row {
+  flex-direction: row-reverse;
+}
+.cid-uU9zYrqGEj img {
+  width: 100%;
+}
+.cid-uU5WxtLgYh {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/footer-oso-jeep-aruba-tours.webp");
+}
+.cid-uU5WxtLgYh .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uU5WxtLgYh .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uU5WxtLgYh .media-wrap {
+  padding: 0;
+}
+@media (max-width: 991px) {
+  .cid-uU5WxtLgYh .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uU5WxtLgYh .row {
+    text-align: center;
+  }
+  .cid-uU5WxtLgYh .row > div {
+    margin: auto;
+  }
+  .cid-uU5WxtLgYh .social-row {
+    justify-content: center;
+  }
+}
+.cid-uU5WxtLgYh .social-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-uU5WxtLgYh .list {
+  list-style: none;
+  padding-left: 0;
+  color: #bbbbbb;
+}
+@media (max-width: 991px) {
+  .cid-uU5WxtLgYh .list {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uU5WxtLgYh .list {
+    margin-bottom: 0rem;
+  }
+}
+.cid-uU5WxtLgYh .mbr-text {
+  color: #ffffff;
+}
+.cid-uU5WxtLgYh .soc-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: white;
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+.cid-uU5WxtLgYh .mbr-iconfont {
+  color: black;
+}
+@media (max-width: 991px) {
+  .cid-uU5WxtLgYh div > *:last-child {
+    margin-top: 0 !important;
+  }
+}
+.cid-uU5WxtLgYh .mbr-section-subtitle {
   color: #e43f3f;
 }
